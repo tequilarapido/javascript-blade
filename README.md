@@ -15,6 +15,13 @@ You can install the package using composer
 $ composer require tequilarapido/javascript-blade
 ```
 
+Add to application providers :
+
+```
+Tequilarapido\JavascriptBlade\JavascriptBladeProvider::class
+```
+
+
 ## Usage
 
 ```
