@@ -1,4 +1,4 @@
-# Simple and straightforward Blade directive to passe data to javascript
+# Simple and straightforward Blade directive to pass data to javascript
 
 
 ## Contents
