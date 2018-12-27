@@ -4,9 +4,12 @@ namespace Tequilarapido\JavascriptBlade;
 
 class Directive
 {
-    public function render($key, $value)
+    public function render($key, $value, $namespace = null)
     {
-        $namespace = config('javascript_blade.namespace', 'window.App');
+        if(!$namespace){
+            $namespace = config('javascript_blade.namespace', 'window.App');
+        }
+
 
         $var = PHP_EOL . "{$namespace} = {$namespace} || {}; {$namespace}.{$key} = " . json_encode($value, JSON_HEX_TAG) . ';' . PHP_EOL;
 
