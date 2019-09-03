@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.4"></a>
+## [1.2.4](https://github.com/tequilarapido/javascript-blade/compare/v1.2.3...v1.2.4) (2019-09-03)
+
+
+### Features
+
+* add auto-discovery ([27b5752](https://github.com/tequilarapido/javascript-blade/commit/27b5752))
+* add Laravel 6.0 support ([4adf344](https://github.com/tequilarapido/javascript-blade/commit/4adf344))
+
+
+
 <a name="1.2.3"></a>
 ## 1.2.3 (2019-03-04)
 
