@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.5"></a>
+## [1.2.5](https://github.com/tequilarapido/javascript-blade/compare/v1.2.4...v1.2.5) (2019-10-10)
+
+
+### Features
+
+* support Laravel 6.* versions ([901d94d](https://github.com/tequilarapido/javascript-blade/commit/901d94d))
+
+
+
 <a name="1.2.4"></a>
 ## [1.2.4](https://github.com/tequilarapido/javascript-blade/compare/v1.2.3...v1.2.4) (2019-09-03)
 
