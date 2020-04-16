@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.8"></a>
+## [1.2.8](https://github.com/tequilarapido/javascript-blade/compare/v1.2.7...v1.2.8) (2020-04-16)
+
+
+### Features
+
+* add type=application/javascript to script tag ([a288d71](https://github.com/tequilarapido/javascript-blade/commit/a288d71))
+
+
+
 <a name="1.2.7"></a>
 ## [1.2.7](https://github.com/tequilarapido/javascript-blade/compare/v1.2.6...v1.2.7) (2020-03-03)
 
